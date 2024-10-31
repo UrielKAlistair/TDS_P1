@@ -1,0 +1,31 @@
+login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license_name
+emmabostian,emmabostian/developer-portfolios,2019-09-13T14:18:58Z,7353,7353,,true,true,
+emilk,emilk/egui,2019-01-13T15:39:15Z,22251,22251,Rust,false,true,Apache License 2.0
+mpj,mpj/create-react-app,2016-11-28T16:38:56Z,7,7,JavaScript,true,true,Other
+hrydgard,hrydgard/ppsspp-site,2022-10-05T20:05:57Z,58,58,Rust,false,true,
+eriklindernoren,eriklindernoren/PyTorch-GAN,2018-04-21T13:06:40Z,16393,16393,Python,true,true,MIT License
+spotify,spotify/spotify.github.io,2021-07-28T18:54:12Z,103,103,HTML,false,false,Apache License 2.0
+arvidn,arvidn/libtorrent,2015-06-03T05:22:03Z,5236,5236,C++,true,true,Other
+aladdinpersson,aladdinpersson/Machine-Learning-Collection,2020-03-26T07:02:40Z,7603,7603,Python,true,true,MIT License
+khaosdoctor,khaosdoctor/dotfiles,2017-01-13T21:08:08Z,10,10,Shell,true,true,GNU General Public License v3.0
+Mojang,Mojang/minecraft-debugger,2021-04-28T17:45:54Z,57,57,TypeScript,true,true,MIT License
+joearms,joearms/joearms.github.io,2017-09-12T14:49:51Z,61,61,HTML,true,true,MIT License
+emilbjornson,emilbjornson/presentation_slides,2020-06-27T09:02:50Z,56,56,,true,true,
+Dinnerbone,Dinnerbone/web-factoriopedia,2024-10-28T18:17:12Z,7,7,,true,true,MIT License
+fornwall,fornwall/advent-of-code,2019-11-28T16:41:48Z,43,43,Rust,false,false,
+victorbjorklund,victorbjorklund/scb_ex,2024-06-28T17:19:35Z,0,0,Elixir,true,true,
+wader,wader/jaq,2024-09-23T09:58:48Z,0,0,,true,true,MIT License
+bella-silveira,bella-silveira/adventofcode,2020-12-01T10:14:30Z,1,1,JavaScript,true,true,
+davidsandberg,davidsandberg/facenet,2016-02-12T22:14:40Z,13796,13796,Python,false,true,MIT License
+Nyholm,Nyholm/docs-1,2024-10-09T16:21:36Z,1,1,,true,false,Other
+xNotch,xNotch/dark,2014-08-25T20:40:24Z,362,362,Dart,true,true,MIT License
+dejwid,dejwid/instagram-clone,2024-10-27T14:32:43Z,11,11,TypeScript,true,true,
+ivanpaulovich,ivanpaulovich/dotfiles,2022-07-13T19:13:56Z,3,3,Shell,true,true,MIT License
+marcusolsson,marcusolsson/fides,2024-09-18T16:19:19Z,0,0,Python,true,false,Apache License 2.0
+EmbarkStudios,EmbarkStudios/cervo,2022-05-10T19:00:40Z,40,40,Rust,true,true,Apache License 2.0
+torkelo,torkelo/grafana,2014-05-29T15:33:34Z,112,112,JavaScript,true,true,Other
+AhsanAyaz,AhsanAyaz/ng-resource-signal-yt,2024-10-31T08:08:41Z,0,0,TypeScript,true,true,
+Grimler91,Grimler91/termux-packages,2017-02-02T15:47:11Z,28,28,Shell,true,false,Other
+satansdeer,satansdeer/sound-recommender,2024-05-05T15:02:28Z,0,0,TypeScript,true,true,
+marmelroy,marmelroy/PhoneNumberKit,2015-09-26T14:37:36Z,5135,5135,Swift,true,true,MIT License
+LinusU,LinusU/node-rs,2022-09-27T16:31:40Z,1,1,,true,true,MIT License
